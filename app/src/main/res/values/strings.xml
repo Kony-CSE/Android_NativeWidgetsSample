@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NativeWidgets</string>
+    <string name="title_activity_toggle_button">ToggleButtonActivity</string>
+
+    <string-array name="mobile_operating_systems_array">
+        <item>Android</item>
+        <item>iOS</item>
+        <item>Windows</item>
+        <item>Blackberry</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="tvmail">Mail to Link Click here <a href="mailto:johnvinodh.talluri@kony.com?Subject=Test%20mail" target="_top">johnvinodh.talluri@kony.com</a></string>
+
+    <string name="tvDefaultLink"> Default Link \n<a href="http://docs.kony.com/konylibrary/visualizer/viz_widget_prog_guide/Default.htm">http://docs.kony.com/konylibrary/visualizer/viz_widget_prog_guide/Default.htm</a></string>
+    <string name="browserURL">http://docs.google.com/gview?embedded=true</string>
+</resources>
